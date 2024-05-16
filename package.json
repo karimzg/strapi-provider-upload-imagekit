@@ -10,9 +10,9 @@
     "eslint": "^7.2.0"
   },
   "author": {
-    "name": "Denis Šaško",
-    "email": "denissasko@gmail.com",
-    "url": "https://dsasko.github.io/"
+    "name": "Zgoulli Karim",
+    "email": "karim@nakaa.fr",
+    "url": "https://karimzg.github.io/"
   },
   "keywords": [
     "upload",
@@ -25,10 +25,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/dsasko/strapi-provider-upload-imagekit.git"
+    "url": "git://github.com/karimzg/strapi-provider-upload-imagekit.git"
   },
   "bugs": {
-    "url": "https://github.com/dsasko/strapi-provider-upload-imagekit/issues"
+    "url": "https://github.com/karimzg/strapi-provider-upload-imagekit/issues"
   },
   "strapi": {
     "isProvider": true
